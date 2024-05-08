@@ -6,7 +6,7 @@
       "value": "rotesh-contact-database-app"
     },
     "appInsightsName": {
-      "value": "yourAppInsightsName"
+      "value": "insights"
     }
   }
 }
