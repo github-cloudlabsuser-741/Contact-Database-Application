@@ -1,12 +1,12 @@
 {
-    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
-    "contentVersion": "1.0.0.0",
-    "parameters": {
-        "name": {
-            "value": "myWebApp-rotesh"
-        },
-        "location": {
-            "value": "East US"
-        }
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "webAppName": {
+      "value": "rotesh-contact-database-app"
+    },
+    "appInsightsName": {
+      "value": "yourAppInsightsName"
     }
+  }
 }
